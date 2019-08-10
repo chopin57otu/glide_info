@@ -103,5 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-pocasi_shrnuti.pdf
+*.pdf
 data/
